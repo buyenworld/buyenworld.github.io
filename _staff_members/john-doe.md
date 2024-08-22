@@ -1,8 +1,8 @@
 ---
-name: John Doe
+name: Felix Xue
 image: "//placebear.com/440/440?a=.png"
-credentials: LLB
-phone_extension: "11"
+credentials: CEO
+phone_extension: ""
 ---
 
-With an interest in employment law, John works tirelessly to improve workplaces.
+Felix has 10 years of experience in Engineering, and specialises in IT and business.

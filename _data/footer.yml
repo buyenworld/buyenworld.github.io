@@ -1,4 +1,4 @@
-- title: Pages
+- title: Company
   links:
     - name: Home
       link: /
@@ -12,19 +12,15 @@
       link: /blog/
 - title: Social
   links:
-    - name: Facebook
+    - name: YouTube
       link: 
-      social_icon: Facebook
+      social_icon: YouTube
       new_window: true
     - name: Twitter
       link: 
       social_icon: Twitter
       new_window: true
-    - name: Instagram
-      link: 
-      social_icon: Instagram
-      new_window: true
     - name: LinkedIn
-      link: 
+      link: http://linkedin.com/company/buyen
       social_icon: LinkedIn
       new_window: true
