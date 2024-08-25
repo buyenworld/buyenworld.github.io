@@ -1,14 +1,24 @@
 - title: Company
   links:
-    - name: Home
+    - name: 
+      zh: 主页
+      en: Home
       link: /
-    - name: About
+    - name: 
+      zh: 关于
+      en: About
       link: /about/
-    - name: Services
+    - name: 
+      zh: 服务
+      en: Services
       link: /services/
-    - name: Contact
+    - name: 
+      zh: 联系
+      en: Contact
       link: /contact/
-    - name: Blog
+    - name: 
+      zh: 日志
+      en: Blog
       link: /blog/
 - title: Social
   links:
