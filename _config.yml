@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Sophgo Technologies
+title: Sophgo
 url: "https://www.sophgotech.com"
 baseurl:
 google_analytics_key:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Sophgo Technologies
+  name: Sophgo
   links:
     - https://www.sophgotech.com
 
